@@ -91,3 +91,4 @@ export function useAuthenticate() {
 In a good way, this should be automated and done through the dependency injection. But in the case of React and hooks, we can use them as a “container” that returns an implementation of the specified interface.
 
 In this particular application, it didn't make much sense to set up the DI because it would distract from the main topic.
+# cookie-ecommerce
